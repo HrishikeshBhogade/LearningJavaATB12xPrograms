@@ -1,3 +1,5 @@
+package Basics_Java;
+
 public class Comments {
     public static void main(String[] args) {
         System.out.println("Hello, this code for comments");
